@@ -7,4 +7,4 @@ google cloud cloud platform
      cloud watch default monitoring time 5 minutes
 </p>
   
->>>>>>> b1818e72cfeb18301b620732a94e8363beeb3d6e
+<h1> amazon web services google cloud platform</h1>
