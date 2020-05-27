@@ -1,0 +1,15 @@
+This is venkat panditi
+AWS certified solution architect associate
+aws cloud practitioners exam conducting date
+kuberneter master node components
+API namager
+etcd
+controller manager
+scheduler
+
+
+worker node components
+kubelet
+kubeproxy
+container runner
+
