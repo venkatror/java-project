@@ -1,0 +1,8 @@
+#!/bin/bash
+# this is comment in shell scripting
+echo hello world # passing arguments to the output statement 
+echo "hello world"
+echo "hello	world"
+echo "hello * world"
+echo hello * world 
+
